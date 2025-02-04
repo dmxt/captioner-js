@@ -1,7 +1,7 @@
 # The Captioner (MVP)
 
 ## Screenshot
-![captioner-mpv-1-preview.png](captioner-mpv-1-preview.png)
+![Screenshot of spoken transcribed tot text in console](screenshot.png)
 
 # How to run
 1. Open `index.html` with Google Chrome
