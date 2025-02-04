@@ -19,7 +19,7 @@ users.
 
 
 ### Screenshot
-![captioner-mpv-1-preview.png](captioner-mpv-1-preview.png)
+![Spoken word transcribed into the console](screenshot.png)
 
 ### Video
 https://github.com/user-attachments/assets/e67b47ea-7e6a-4ae7-8b56-04d17508619b
