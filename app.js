@@ -31,6 +31,10 @@ if (!('webkitSpeechRecognition' in window)) {
             .join('');
         console.log('Transcript:', transcript);
     };
+    recognition.onresult = function (event) {
+        const transcript = event.results[0][0].transcript;
+        console.log('Transcript:', transcript)
+    };
 
     recognition.onerror = (event) => {
         console.error('Error occurred in recognition: ' + event.error);
